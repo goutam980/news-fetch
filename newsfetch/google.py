@@ -4,7 +4,7 @@ from newsfetch.helpers import (get_chrome_web_driver, get_web_driver_options,
                                set_ignore_certificate_error)
 from newsfetch.utils import (BeautifulSoup, Options, UserAgent, get, re,
                              webdriver)
-
+#this is a search engine app help to find easy task
 
 class google_search:
 
